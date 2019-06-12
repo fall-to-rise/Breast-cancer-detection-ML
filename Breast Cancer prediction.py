@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
+#This is for collecting and filtering requisite datasets from already existing one
 
 dataset=pd.read_csv('dataset_cancer.csv')
 #X=dataset.iloc[:, 2:32].values
